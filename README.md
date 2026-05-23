@@ -105,7 +105,7 @@ python visualize_music.py --midi improvisation.mid --plot piano_roll.png --wav i
 ### 1. Rendered Piano Roll Representation
 The rendered pitch vs. time scatter grid showing note onset velocities and durations:
 
-![Piano Roll Visualizer](piano_roll.png) <!-- REPLACE_WITH_PIANO_ROLL_IMAGE -->
+![Piano Roll Visualizer](piano_roll_new.png) <!-- REPLACE_WITH_PIANO_ROLL_IMAGE -->
 
 ### 2. Native Audio Wav Synthesis
 Our native synthesis compiles note frequencies into a clean WAV audio signal (using sine synthesis) without requiring external soundfonts or Fluidsynth setups.
