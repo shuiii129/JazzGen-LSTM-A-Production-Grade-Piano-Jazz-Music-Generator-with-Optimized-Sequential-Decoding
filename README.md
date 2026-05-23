@@ -59,6 +59,8 @@ graph TD
 *   `export.py`: Renders note-level velocities and tempo rubato for expressiveness.
 
 ---
+## Here is the Google Drive Link of checkpoints, improvisation, composition, test checkpoints, test data
+https://drive.google.com/drive/folders/1eucpLaiImc5BqpuyDTa_apxW-7xZBiLQ?usp=sharing
 
 ## 🚀 Reproduction Commands (`main.py`)
 
